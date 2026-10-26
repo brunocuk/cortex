@@ -1,10 +1,22 @@
+import Image from "next/image";
 import Link from "next/link";
 import Reveal from "@/components/Reveal";
 
 export default function FinalCta() {
   return (
-    <section className="bg-navy">
-      <div className="mx-auto max-w-6xl px-5 py-20 lg:py-24">
+    <section className="relative overflow-hidden bg-navy">
+      <Image
+        src="/img/interijer.jpg"
+        alt=""
+        fill
+        sizes="100vw"
+        className="object-cover opacity-20"
+      />
+      <div
+        aria-hidden
+        className="absolute inset-0 bg-gradient-to-b from-navy via-navy/60 to-navy"
+      />
+      <div className="relative mx-auto max-w-6xl px-5 py-20 lg:py-24">
         <Reveal>
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="font-display text-3xl font-bold tracking-tight text-white sm:text-4xl">
