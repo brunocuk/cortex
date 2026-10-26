@@ -1,0 +1,32 @@
+# Cortex Business Operations (CBO)
+
+> Specijalizirana usluga robno-materijalnog poslovanja, F&B kontrolinga i digitalizacije za ugostiteljstvo u Hrvatskoj: caffe barove, bistroe, restorane i hotele. Preuzimamo kompletan operativni robni teret (primke, kalkulacije, normativi, inventure, food i beverage cost), a vanjsko financijsko knjigovodstvo dobiva proknjižene i matematički točne izvještaje. Osnivač: Matej Kobaš, 15+ godina operativnog iskustva (COO grupacije Rougemarin, direktor sektora ugostiteljstva Atalian Global Services Croatia).
+
+## Stranice
+
+- [Naslovna](https://cortex.hr/): Glavna ponuda vrijednosti, ključne prednosti i pregled modela suradnje
+- [Usluge i modeli suradnje](https://cortex.hr/usluge): Pet modula s detaljnim opsegom i usporednom tablicom funkcionalnosti
+- [O nama](https://cortex.hr/o-nama): Iskustvo Mateja Kobaša i metodologija (Clean Start, softverska fleksibilnost, sinergija s knjigovodstvom)
+- [Besplatna analiza zaliha](https://cortex.hr/analiza): Kratki upitnik u pet koraka za dogovor besplatne analize
+- [Kontakt](https://cortex.hr/kontakt): Kontakt forma i izravni kontakt
+
+## Modeli suradnje
+
+- Basic: Operativna robna administracija. Unos primki i e-računa, kalkulacije nabavnih cijena, normativi, šifriranje artikala, mjesečni robni izvještaji za financijsko knjigovodstvo
+- Medium: Sve iz Basica + kontrola skladišta. Obrada i sravnjavanje inventura, analiza viškova i manjkova, knjiženje kala i loma, rad s osobljem na točnosti evidencije
+- Premium: Sve iz Mediuma + cjeloviti F&B kontroling i digitalizacija. Digitalni HACCP, evidencija rada i smjena, POS i kuhinjski ekrani, složeni normativi i poluproizvodi, praćenje food i beverage costa, rano upozoravanje na skok ulaznih cijena, inženjering menija, mjesečni KPI sastanci
+- Premium+: Sve iz Premiuma + eksterni voditelj poslovanja. Mjesečni operativni P&L (račun dobiti i gubitka), pregovori s dobavljačima i ugovaranje rabata, benchmarking nabave, redizajn ponude, marketinška podrška, standardne operativne procedure (SOP)
+- Ključ u ruke: Projektni konzalting za nove objekte ili potpuno restrukturiranje. Postavljanje operativnog sustava od nule, implementacija softvera i hardvera, Clean Start baza podataka, mreža dobavljača, edukacija osoblja, podrška na otvaranju, prijelaz na stalni mjesečni nadzor
+
+## Ključni pojmovi
+
+- Clean Start: postavljanje baze artikala, skladišta i normativa od nule, bez naslijeđenih grešaka
+- F&B kontroling: praćenje stvarnog food i beverage costa po grupama artikala i zaštita marže
+- Operativni P&L: mjesečni upravljački račun dobiti i gubitka prilagođen ugostiteljstvu
+- Sinergija s knjigovodstvom: CBO nije konkurencija knjigovodstvenim servisima, nego njihov operativni partner
+
+## Kontakt
+
+- E-mail: info@cortex.hr
+- Lokacija: Zagreb, Hrvatska
+- Besplatna analiza: https://cortex.hr/analiza

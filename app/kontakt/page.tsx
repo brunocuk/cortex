@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Kontakt",
   description:
     "Dogovorite besplatnu analizu zaliha i uvodni razgovor. Javljamo se u roku jednog radnog dana.",
+  alternates: { canonical: "/kontakt" },
 };
 
 const steps = [

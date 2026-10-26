@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: "Usluge i modeli suradnje",
   description:
     "Pet modela suradnje: od operativne robne administracije do eksternog voditelja poslovanja i projekta 'Ključ u ruke'. Usporedite module i pronađite svoj.",
+  alternates: { canonical: "/usluge" },
 };
 
 export default function UslugePage() {

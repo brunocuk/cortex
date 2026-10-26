@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Besplatna analiza zaliha",
   description:
     "Odgovorite na pet kratkih pitanja o svom lokalu i dogovorite besplatnu analizu zaliha i reviziju ulaznih kalkulacija.",
+  alternates: { canonical: "/analiza" },
 };
 
 export default function AnalizaPage() {

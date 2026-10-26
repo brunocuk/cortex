@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "O nama",
   description:
     "Matej Kobaš, 15+ godina operativnog iskustva u hospitality i F&B sektoru. Upoznajte metodologiju Cortex Business Operations: Clean Start, softverska fleksibilnost i sinergija s knjigovodstvom.",
+  alternates: { canonical: "/o-nama" },
 };
 
 const experience = [
