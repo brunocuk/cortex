@@ -66,7 +66,7 @@ export default function ComparisonTable() {
                     </svg>
                   ) : (
                     <span aria-label="Nije uključeno" className="text-line">
-                      —
+                      ·
                     </span>
                   )}
                 </td>

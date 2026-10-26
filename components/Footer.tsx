@@ -45,6 +45,11 @@ export default function Footer() {
                   Kontakt
                 </Link>
               </li>
+              <li>
+                <Link href="/analiza" className="text-white/80 transition-colors hover:text-white">
+                  Besplatna analiza zaliha
+                </Link>
+              </li>
             </ul>
           </div>
 

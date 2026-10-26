@@ -40,7 +40,7 @@ export default function Benefits() {
             Ne prodajemo vam još jedan program. Donosimo operativni red.
           </h2>
           <p className="mt-4 max-w-2xl text-lg text-muted">
-            15+ godina iskustva vođenja najvećih ugostiteljskih sustava — u
+            15+ godina iskustva vođenja najvećih ugostiteljskih sustava, sada u
             vašem lokalu.
           </p>
         </Reveal>

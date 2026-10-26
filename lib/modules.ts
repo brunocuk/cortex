@@ -125,7 +125,7 @@ export const modules: Module[] = [
       },
       {
         title: "Mjesečni operativni P&L",
-        text: "Upravljački račun dobiti i gubitka prilagođen ugostiteljstvu: prihodi, stvarni COGS za hranu i piće, troškovi rada, režijski troškovi i operativna marža (EBITDA) — mjesec za mjesecom, bez čekanja godišnjih poreznih prijava.",
+        text: "Upravljački račun dobiti i gubitka prilagođen ugostiteljstvu: prihodi, stvarni COGS za hranu i piće, troškovi rada, režijski troškovi i operativna marža (EBITDA). Sve mjesec za mjesecom, bez čekanja godišnjih poreznih prijava.",
       },
       {
         title: "Pregovori s dobavljačima i ugovaranje rabata",
@@ -152,7 +152,7 @@ export const modules: Module[] = [
   {
     slug: "kljuc-u-ruke",
     name: "Ključ u ruke",
-    tagline: "Projektni konzalting — kompletno postavljanje poslovanja",
+    tagline: "Projektni konzalting: kompletno postavljanje poslovanja",
     audience:
       "Za investitore koji ulaze u ugostiteljski sektor bez prethodnog operativnog iskustva (građevinski sektor, IT, privatni ulagači) ili za postojeće objekte u fazi potpunog restrukturiranja poslovanja.",
     items: [
@@ -170,7 +170,7 @@ export const modules: Module[] = [
       },
       {
         title: "Clean Start baza podataka",
-        text: "Čisti katalog artikala, točni normativi, definicije poluproizvoda, poreza i cjenika — bez naslijeđenog nereda.",
+        text: "Čisti katalog artikala, točni normativi, definicije poluproizvoda, poreza i cjenika, bez naslijeđenog nereda.",
       },
       {
         title: "Spajanje s provjerenom mrežom dobavljača",

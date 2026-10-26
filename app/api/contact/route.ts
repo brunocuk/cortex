@@ -66,9 +66,9 @@ export async function POST(request: Request) {
   const html = `
     <h2>Novi upit s cortex.hr</h2>
     <p><strong>Ime:</strong> ${escapeHtml(name)}</p>
-    <p><strong>Lokal / tvrtka:</strong> ${escapeHtml(business || "—")}</p>
+    <p><strong>Lokal / tvrtka:</strong> ${escapeHtml(business || "-")}</p>
     <p><strong>E-mail:</strong> ${escapeHtml(email)}</p>
-    <p><strong>Telefon:</strong> ${escapeHtml(phone || "—")}</p>
+    <p><strong>Telefon:</strong> ${escapeHtml(phone || "-")}</p>
     <p><strong>Poruka:</strong></p>
     <p>${escapeHtml(message).replaceAll("\n", "<br/>")}</p>
   `;
@@ -77,7 +77,7 @@ export async function POST(request: Request) {
     from,
     to,
     replyTo: email,
-    subject: `Upit s weba — ${name}${business ? ` (${business})` : ""}`,
+    subject: `Upit s weba: ${name}${business ? ` (${business})` : ""}`,
     html,
   });
 

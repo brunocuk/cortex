@@ -6,7 +6,7 @@ import Reveal from "@/components/Reveal";
 export const metadata: Metadata = {
   title: "O nama",
   description:
-    "Matej Kobaš — 15+ godina operativnog iskustva u hospitality i F&B sektoru. Upoznajte metodologiju Cortex Business Operations: Clean Start, softverska fleksibilnost i sinergija s knjigovodstvom.",
+    "Matej Kobaš, 15+ godina operativnog iskustva u hospitality i F&B sektoru. Upoznajte metodologiju Cortex Business Operations: Clean Start, softverska fleksibilnost i sinergija s knjigovodstvom.",
 };
 
 const experience = [
@@ -26,7 +26,7 @@ const experience = [
     role: "Otvaranja i pre-opening faze",
     org: "Hotel Diplomat Zagreb · Hotel Nikola Vodice",
     detail:
-      "Uspješna otvaranja novih hotela i restoranskih koncepata — od projektiranja operative do prvih gostiju.",
+      "Uspješna otvaranja novih hotela i restoranskih koncepata, od projektiranja operative do prvih gostiju.",
   },
   {
     role: "Produkcija gastronomskih manifestacija",
@@ -39,7 +39,7 @@ const experience = [
 const methodology = [
   {
     title: "Koncept Clean Start",
-    text: "Postavljanje nove baze podataka od nulte točke eliminira povijesne pogreške, fiktivne viškove i zaboravljene artikle — vlasnik dobiva 100% vjerodostojno polazište.",
+    text: "Postavljanje nove baze podataka od nulte točke eliminira povijesne pogreške, fiktivne viškove i zaboravljene artikle. Vlasnik dobiva 100% vjerodostojno polazište.",
   },
   {
     title: "Softverska fleksibilnost",
@@ -134,7 +134,7 @@ export default function ONamaPage() {
               Metodologija
             </p>
             <h2 className="font-display mt-4 max-w-2xl text-3xl font-bold tracking-tight text-navy sm:text-4xl">
-              Kako radimo — i zašto to funkcionira.
+              Kako radimo i zašto to funkcionira.
             </h2>
           </Reveal>
 

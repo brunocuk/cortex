@@ -7,7 +7,7 @@ import { modules } from "@/lib/modules";
 export const metadata: Metadata = {
   title: "Usluge i modeli suradnje",
   description:
-    "Pet modela suradnje — od operativne robne administracije do eksternog voditelja poslovanja i projekta 'Ključ u ruke'. Usporedite module i pronađite svoj.",
+    "Pet modela suradnje: od operativne robne administracije do eksternog voditelja poslovanja i projekta 'Ključ u ruke'. Usporedite module i pronađite svoj.",
 };
 
 export default function UslugePage() {
@@ -26,7 +26,7 @@ export default function UslugePage() {
               Specijalizirani smo za caffe barove, bistroe, restorane i hotele.
               Preuzimamo kompletan operativni robni teret i analitiku, dok vaše
               financijsko knjigovodstvo dobiva proknjižene i matematički točne
-              izvještaje — bilo da krećete od nule ili preuzimamo postojeće
+              izvještaje, bilo da krećete od nule ili preuzimamo postojeće
               stanje.
             </p>
           </Reveal>
@@ -140,12 +140,12 @@ export default function UslugePage() {
                   Niste sigurni koji modul odgovara vašem lokalu?
                 </h3>
                 <p className="mt-1.5 text-sm text-white/70">
-                  Javite se za uvodni razgovor — preporučit ćemo opseg koji ima
+                  Javite se za uvodni razgovor, preporučit ćemo opseg koji ima
                   smisla, bez prodajnog pritiska.
                 </p>
               </div>
               <Link
-                href="/kontakt"
+                href="/analiza"
                 className="rounded-full bg-teal-bright px-7 py-3.5 text-sm font-semibold text-navy transition-all hover:-translate-y-0.5 hover:bg-white"
               >
                 Dogovorite besplatnu analizu

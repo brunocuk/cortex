@@ -7,12 +7,12 @@ import CountUp from "@/components/CountUp";
 const headlineLines = [
   "Znate li točno koliko vas",
   "košta svaka kava, odrezak",
-  "i runda pića — ili samo",
+  "i runda pića, ili samo",
   "pogađate?",
 ];
 
 function NetworkLines() {
-  // Subtle nod to the CBO "neural" logo — light variant
+  // Subtle nod to the CBO "neural" logo, light variant
   return (
     <svg
       aria-hidden
@@ -148,7 +148,7 @@ export default function Hero() {
             className="mt-9 flex flex-wrap gap-4"
           >
             <Link
-              href="/kontakt"
+              href="/analiza"
               className="rounded-full bg-teal px-7 py-3.5 text-sm font-semibold text-white shadow-[0_12px_30px_-12px_rgba(13,148,136,0.7)] transition-all hover:-translate-y-0.5 hover:bg-teal-bright"
             >
               Dogovorite besplatnu analizu zaliha

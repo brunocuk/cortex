@@ -33,7 +33,7 @@ export default function Header() {
             </Link>
           ))}
           <Link
-            href="/kontakt"
+            href="/analiza"
             className="rounded-full bg-navy px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-teal"
           >
             Besplatna analiza zaliha
@@ -72,7 +72,7 @@ export default function Header() {
             </Link>
           ))}
           <Link
-            href="/kontakt"
+            href="/analiza"
             onClick={() => setOpen(false)}
             className="mt-2 block rounded-full bg-navy px-5 py-3 text-center text-sm font-semibold text-white"
           >

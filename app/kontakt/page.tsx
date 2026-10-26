@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import Reveal from "@/components/Reveal";
 import ContactForm from "@/components/kontakt/ContactForm";
 
@@ -11,7 +12,7 @@ export const metadata: Metadata = {
 const steps = [
   {
     title: "Pošaljete upit",
-    text: "Recite nam osnovno o svom objektu — tip, veličinu i što vas najviše muči.",
+    text: "Recite nam osnovno o svom objektu: tip, veličinu i što vas najviše muči.",
   },
   {
     title: "Uvodni razgovor",
@@ -58,7 +59,15 @@ export default function KontaktPage() {
               ))}
             </ol>
 
-            <div className="mt-10 rounded-2xl border border-line bg-white p-6">
+            <p className="mt-8 rounded-xl bg-teal-soft/50 px-5 py-4 text-sm leading-relaxed text-navy">
+              Želite da se bolje pripremimo?{" "}
+              <Link href="/analiza" className="font-semibold text-teal hover:underline">
+                Ispunite kratki upitnik za besplatnu analizu
+              </Link>{" "}
+              (pet pitanja, dvije minute).
+            </p>
+
+            <div className="mt-8 rounded-2xl border border-line bg-white p-6">
               <p className="font-mono text-[11px] uppercase tracking-[0.16em] text-muted">
                 Izravni kontakt
               </p>

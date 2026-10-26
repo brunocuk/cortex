@@ -23,8 +23,8 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://cortex.hr"),
   title: {
-    default: "Cortex Business Operations — Robno poslovanje i F&B kontroling",
-    template: "%s — Cortex Business Operations",
+    default: "Cortex Business Operations | Robno poslovanje i F&B kontroling",
+    template: "%s | Cortex Business Operations",
   },
   description:
     "Preuzimamo kompletno robno poslovanje, inventure, digitalizaciju procesa i kontrolu troškova hrane i pića za kafiće, restorane i hotele. Čiste brojke, zaštićena marža.",

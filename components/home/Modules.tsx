@@ -4,7 +4,7 @@ import Reveal from "@/components/Reveal";
 const modules = [
   {
     name: "Basic",
-    desc: "Operativna robna administracija — primke, kalkulacije, normativi i mjesečni izvještaji za knjigovodstvo.",
+    desc: "Operativna robna administracija: primke, kalkulacije, normativi i mjesečni izvještaji za knjigovodstvo.",
   },
   {
     name: "Medium",
@@ -21,7 +21,7 @@ const modules = [
   },
   {
     name: "Ključ u ruke",
-    desc: "Kompletno postavljanje poslovanja za nove objekte ili restrukturiranje postojećih — od nule do otvaranja.",
+    desc: "Kompletno postavljanje poslovanja za nove objekte ili restrukturiranje postojećih, od nule do otvaranja.",
   },
 ];
 
